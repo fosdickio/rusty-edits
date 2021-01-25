@@ -14,6 +14,11 @@ You can build and run the text editor using the following command:
 cargo run
 ```
 
+To open a specific file, you may pass in the filename as an argument:
+```rust
+cargo run README.md
+```
+
 ## Keyboard Shorcuts
 - `Arrow Keys` &rarr; move cursor in the specified direction
 - `Page Up` / `Page Down` &rarr; move cursor to the top or bottom of the file
