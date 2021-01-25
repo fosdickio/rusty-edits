@@ -15,7 +15,7 @@ cargo run
 ```
 
 ## Keyboard Shorcuts
-- `Arrow Keys` &rarr; move cursor
+- `Arrow Keys` &rarr; move cursor in the specified direction
 - `Page Up` / `Page Down` &rarr; move cursor to the top or bottom of the file
 - `Home` / `End` &rarr; move cursor to the start or end of the line
 - `Ctrl + q` &rarr; quit the text editor.
