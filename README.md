@@ -16,11 +16,11 @@ cargo run
 
 To open a specific file, you may pass in the filename as an argument:
 ```rust
-cargo run README.md
+cargo run src/editor.rs
 ```
 
 ## Keyboard Shorcuts
 - `Arrow Keys` &rarr; move cursor in the specified direction
-- `Page Up` / `Page Down` &rarr; move cursor to the top or bottom of the file
+- `Page Up` / `Page Down` &rarr; scroll up or down a page
 - `Home` / `End` &rarr; move cursor to the start or end of the line
 - `Ctrl + q` &rarr; quit the text editor.
