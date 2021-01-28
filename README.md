@@ -2,7 +2,7 @@
 
 ![Rust](https://github.com/fosdickio/rust-text-editor/workflows/Rust/badge.svg)
 
-A simple text editor written in Rust.
+A basic text editor written in Rust.
 
 ## Requirements
 - Rust (1.49.0+)
@@ -23,4 +23,5 @@ cargo run src/editor.rs
 - `Arrow Keys` &rarr; move cursor in the specified direction
 - `Page Up` / `Page Down` &rarr; scroll up or down a page
 - `Home` / `End` &rarr; move cursor to the start or end of the line
-- `Ctrl + q` &rarr; quit the text editor.
+- `Ctrl + s` &rarr; save the file
+- `Ctrl + q` &rarr; quit the text editor
