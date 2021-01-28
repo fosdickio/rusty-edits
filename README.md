@@ -23,5 +23,8 @@ cargo run src/editor.rs
 - `Arrow Keys` &rarr; move cursor in the specified direction
 - `Page Up` / `Page Down` &rarr; scroll up or down a page
 - `Home` / `End` &rarr; move cursor to the start or end of the line
+- `Ctrl + f` &rarr; search the file for a provided query
+  - `Up Arrow` / `Left Arrow` &rarr; navigate to previous match
+  - `Down Arrow` / `Right Arrow` &rarr; navigate to next match
 - `Ctrl + s` &rarr; save the file
 - `Ctrl + q` &rarr; quit the text editor
