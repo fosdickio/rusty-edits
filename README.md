@@ -4,6 +4,8 @@
 
 A basic text editor written in Rust.
 
+![Rust Text Editor Screenshot](doc/screenshot.png)
+
 ## Requirements
 - Rust (1.49.0+)
 - Cargo (1.49.0+)
