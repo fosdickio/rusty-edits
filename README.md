@@ -1,8 +1,8 @@
-# Rust Text Editor
+# Rusty Edits
 
 ![Rust](https://github.com/fosdickio/rust-text-editor/workflows/Rust/badge.svg)
 
-A basic text editor written in Rust.
+Rusty Edits is a simple, vi-like text editor written in Rust.
 
 ![Rust Text Editor Screenshot](doc/screenshot.png)
 
